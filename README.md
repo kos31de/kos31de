@@ -1,7 +1,7 @@
+## About me
+Hi, there I'm Kosei 👋
 
-Hi, I'm Kosei👋
-
-I'm a Software Engineer based in Vancouver🇨🇦 with 4+ years of experience in the tech industry.
+I'm a Software Engineer based in Vancouver 🇨🇦 with 4+ years of experience in the tech industry.
 
 As an SRE, my competence is in utilising cloud-native technologies, with a focus on Kubernetes, to promote DevOps in the use of cloud infrastructures.
 
