@@ -1,10 +1,8 @@
 ## About me
-Hi, there I'm Kosei 👋
+Hi, I'm Kosei 👋
 
-I'm a Software Engineer based in Vancouver 🇨🇦 with 4+ years of experience in the tech industry.
+Software Engineer with 5+ years of experience proficient in Kubernetes, AWS, Terraform and Golang. 
 
-As an SRE, my competence is in utilising cloud-native technologies, with a focus on Kubernetes, to promote DevOps in the use of cloud infrastructures.
-
-As a back-end engineer, my strengths are user-first feature development with TDD and agile using Ruby on Rails.
+Passionate about operating a cloud infrastructure that delivers the value of the company's products to the world.
 
 If you wish to contact me, please DM me on Twitter [@kos31de](https://twitter.com/kos31de).
