@@ -1,7 +1,7 @@
 ## About me
 Hi, I'm Kosei 👋
 
-Software Engineer with 5+ years of experience proficient in Kubernetes, AWS, Terraform and Golang. 
+Software Engineer with 5+ years of experience proficient in AWS, Kubernetes, Terraform, Golang and Ruby. 
 
 Passionate about operating a cloud infrastructure that delivers the value of the company's products to the world.
 
